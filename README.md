@@ -1,2 +1,2 @@
 # Game-Play
-Create JS Application Exam
+JS Application Exam
